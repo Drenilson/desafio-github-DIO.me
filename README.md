@@ -1,6 +1,9 @@
 # desafio-github-DIO.me
 Projeto desafio da plataforma DIO.me em Git GitHub
 
+
+![](https://memeexplicado.com/wp-content/uploads/2023/11/nossa-seu-madruga.png)
+
 # Apresentação
 
 *"Oi, eu sou o Seu Madruga, e se você está lendo isso, é porque não tem mais nada para fazer! Sou o pai da Chiquinha e o alvo das travessuras do Chaves. Vamos lá, não me incomode muito, porque eu já tenho problemas demais!"*
@@ -23,6 +26,8 @@ Seu Madruga é um personagem carismático e sempre mal-humorado da série de tel
 - "Eu não tenho dinheiro!"
 - "Isso é uma falta de respeito!",
 - "Só me faltava essa!".
+
+![](https://images7.memedroid.com/images/UPLOADED54/542fdceee22ba.jpeg)
 
 **Interações**
 *Interagir com as Crianças:* É sempre bom estar preparado para ser interrompido pelo Chaves, Quico e outros.
