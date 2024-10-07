@@ -1,6 +1,8 @@
 # desafio-github-DIO.me
 Projeto desafio da plataforma DIO.me em Git GitHub
 
+### “Posso não ter um centavo no bolso, mas tenho um sorriso no rosto e isso vale mais que todo dinheiro do mundo.”
+
 
 ![](https://memeexplicado.com/wp-content/uploads/2023/11/nossa-seu-madruga.png)
 
@@ -22,10 +24,15 @@ Seu Madruga é um personagem carismático e sempre mal-humorado da série de tel
 **Relações:** Tenho boa relação com vizinhaça (menos com a velha coroca (dona Florinda)). Sou um pai amoroso, mas rígido e preso pelo bem estar da minha filha.
 
 **Frases Icônicas:**
-- "Não me incomode!", 
-- "Eu não tenho dinheiro!"
-- "Isso é uma falta de respeito!",
-- "Só me faltava essa!".
+- “A virtude do bem viver está nos princípios morais, minha filha.”
+- "Não me incomode, que eu já estou incomodado!", 
+- “Sou pobre, porém honrado!”
+- “Sou um homem de muita barriga senhor sorte.”
+- “As pessoas boas devem amar seu inimigos.”
+- “As dívidas são sagradas!”
+- “Eu sabia que você era idiota, mas não a nível executivo!”
+- “Somente um idiota responde uma pergunta com outra pergunta.”
+- “O trabalho não é ruim. Ruim é ter de trabalhar!”
 
 ![](https://images7.memedroid.com/images/UPLOADED54/542fdceee22ba.jpeg)
 
